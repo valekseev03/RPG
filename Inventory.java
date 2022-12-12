@@ -1,4 +1,3 @@
-package RolePlayingGame_v2;
 
 //Imports
 	import java.util.ArrayList;
