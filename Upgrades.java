@@ -1,4 +1,3 @@
-package RolePlayingGame_v2;
 
 import java.awt.GridLayout;
 import javax.swing.BorderFactory;
