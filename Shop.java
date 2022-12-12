@@ -1,4 +1,3 @@
-package RolePlayingGame_v2;
 
 import java.awt.Color;
 import java.awt.GridLayout;
