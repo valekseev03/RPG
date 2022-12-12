@@ -1,4 +1,3 @@
-package RolePlayingGame_v2;
 /*[(0: Sword), (1: Axe), (2: Mace), (3: Cross-Bow), (4: SledgeHammer), (5: Dagger) (6: Gauntlet) (7: Misc)]*/
 
 public class Weapon {
