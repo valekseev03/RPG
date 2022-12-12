@@ -1,4 +1,3 @@
-package RolePlayingGame_v2;
 
 import java.awt.GridLayout;
 import java.awt.event.KeyEvent;
